@@ -1,0 +1,13 @@
+[2026-07-15 17:02:22] Permission changed for test.txt to 544.
+[2026-07-15 17:04:49] Ownership changed for test.txt to sowmiyaramu.
+[2026-07-15 17:07:19] User sowmiyaramu added to group developer.
+[2026-07-15 17:08:38] Current umask displayed: 0002.
+[2026-07-15 17:16:29] User user2 created successfully.
+[2026-07-15 17:17:06] Group group1 created successfully.
+[2026-07-15 17:17:12] Displayed all running processes.
+[2026-07-15 17:17:18] Displayed top processes.
+[2026-07-15 17:17:51] Process with PID 5833 terminated.
+[2026-07-15 17:18:16] Started process with nice value 5.
+[2026-07-15 17:18:32] Changed priority of PID 5848 to 5.
+[2026-07-15 17:18:37] Background job started.
+[2026-07-15 17:18:47] Displayed background jobs.
