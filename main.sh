@@ -1,4 +1,14 @@
 #!/bin/bash
+<<<<<<< HEAD
+
+VERBOSE=false
+
+if [[ "$1" == "--verbose" ]]; then
+    VERBOSE=true
+fi
+
+=======
+>>>>>>> 5789e8a3c185b17603bf8b19b71521e528d7bdfd
 source modules/permission_management.sh
 source modules/ownership_management.sh
 source modules/group_management.sh

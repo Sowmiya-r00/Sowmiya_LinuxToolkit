@@ -11,3 +11,24 @@
 [2026-07-15 17:18:32] Changed priority of PID 5848 to 5.
 [2026-07-15 17:18:37] Background job started.
 [2026-07-15 17:18:47] Displayed background jobs.
+<<<<<<< HEAD
+[2026-07-22 14:42:14] Permission changed for test.txt to 755.
+[2026-07-22 14:42:28] Permission changed for test.txt to 755.
+[2026-07-22 14:43:25] Permission changed for test.txt to 566.
+[2026-07-22 14:49:26] Permission changed for test.txt to 755.
+[2026-07-22 14:52:05] Permission changed for test.txt to 564.
+[2026-07-22 14:52:45] Permission changed for test.txt to 563.
+[2026-07-22 16:46:21] User suhitha created successfully.
+[2026-07-22 16:47:01] User sowmiyaaa created successfully.
+[2026-07-22 18:36:37] User sowmiya created successfully.
+[2026-07-22 18:36:44] User sowmiya already exists. No action taken.
+[2026-07-22 18:39:05] User sowmiya already exists. No action taken.
+[2026-07-22 18:41:43] Group developer already exists. No action taken.
+[2026-07-22 18:41:58] Group devops created successfully.
+[2026-07-22 18:42:05] Group devops already exists. No action taken.
+[2026-07-22 18:46:58] Group intern created successfully.
+[2026-07-22 18:47:06] Group intern already exists. No action taken.
+[2026-07-22 18:48:47] User sowmiya already exists. No action taken.
+[2026-07-22 18:48:54] User arthi created successfully.
+=======
+>>>>>>> 5789e8a3c185b17603bf8b19b71521e528d7bdfd
